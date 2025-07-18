@@ -1,8 +1,10 @@
 # Food-Ordering-WebApp
 🍔 OmniFoods – Food Ordering Website
+
 Link:-https://omni-food-ordering.netlify.app/
 
 OmniFoods is a modern and responsive food ordering website designed to provide a seamless and user-friendly experience for users looking to explore, subscribe, and order healthy meals online. This project currently includes the frontend part and is under active development to add backend functionalities.
+
 🚀 Project Overview
 
 This project is aimed at creating an intuitive food delivery platform with a focus on clean design, ease of use, and scalability. The frontend is built using HTML, CSS, and JavaScript, with responsive design and animations for better user experience.
